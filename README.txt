@@ -10,6 +10,7 @@ This release delivers major upgrades to workflow management, reporting, and SQL 
 NEW FEATURES AND ENHANCEMENTS
 ------------------------------------------------------------
 
+
 1. New Gutter Work Ticket Form  
 Users can now create, edit, and manage daily gutter production work tickets directly inside the application.
 
