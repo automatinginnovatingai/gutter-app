@@ -1,4 +1,4 @@
-# Gutter App – Offline Payroll & Job Tracker (.exe)
+Gutter App – Offline Payroll & Job Tracker (.exe)
 
 This repository contains documentation for the Gutter App — a closed‑source Windows application designed for gutter installation companies and exterior contractors. It enables small to large production teams to manage job entries, payroll, and material usage entirely offline.
 
