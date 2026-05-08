@@ -6,6 +6,23 @@ The Gutter App was built to modernize workflows in the gutter industry. After se
 
 This release delivers major upgrades to workflow management, reporting, and SQL Server data handling. All legacy versions have been consolidated into one unified build. SQLite has been fully removed. The application now uses SQL Server Express or Full SQL Server, depending on the user’s environment.
 
+Overview
+--------
+The Gutter App is part of the Automating Innovating AI CRM Suite — a unified,
+multi‑tenant platform designed for construction‑industry trades. All CRM apps now share
+a common architecture:
+
+• Global Admin + Local Admin RBAC
+• company_id data isolation
+• Shared core tables (Companies, Divisions, Regions, Users, Roles, Permissions)
+• Centralized RBAC enforcement
+• Modular feature access per app
+• Inventory App + Payroll App integration
+• Offline‑first operation with secure local SQL storage
+
+This app manages production workflows, employee job tickets, payroll preparation,
+inventory usage, and reporting for your company.
+
 ------------------------------------------------------------
 NEW FEATURES AND ENHANCEMENTS
 ------------------------------------------------------------
